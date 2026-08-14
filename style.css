@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: peru;
+    padding: 40px;
+    margin: 0;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+
+
+}
+
+clomn {
+    display: flex;
+    gap: 20px;
+    padding: 30px;
+}
+
+.clomn {
+    flex: 1;
+    background-color: aqua;
+    padding: 20px;
+    =border-radius: 10px;
+    text-align: center;
+}
